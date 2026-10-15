@@ -1,2 +1,0 @@
-C:\Users\sato\AIprojects\playground\sysmon\dist\SysMon.pdb
-C:\Users\sato\AIprojects\playground\sysmon\dist\SysMon.exe
